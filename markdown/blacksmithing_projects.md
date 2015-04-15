@@ -1,3 +1,3 @@
 <a href="forge.html">
-    <div class="project-button">Making A Forge</div>
+    <div class="project-button">Building a Forge</div>
 </a>
