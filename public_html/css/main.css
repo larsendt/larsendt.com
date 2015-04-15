@@ -4,6 +4,10 @@ body {
     background-color: #FEFBDF;
 }
 
+a {
+    text-decoration: none;
+}
+
 /* 
  * ----------------------------------------------------------------------------
  * Content 
@@ -17,6 +21,26 @@ body {
     margin: auto;
     text-align: justify;
     padding: 15px;
+}
+
+.content a:link {
+    color: #00f;
+    text-decoration: underline;
+}
+
+.content a:visited {
+    color: #00f;
+    text-decoration: underline;
+}
+
+.content a:active {
+    color: #00f;
+    text-decoration: underline;
+}
+
+.content h1 {
+    color: #333;
+    font-weight: normal;
 }
 
 /* 
@@ -56,8 +80,42 @@ body {
 .header {
     padding: 10px;
     background-color: #ECEFF1;
+    background: url('/img/header.png');
 }
 
 .logo-text {
-    text-shadow: 1px 1px 1px #ccc;
+    text-shadow: 1px 1px 4px #000;
+    font-size: 18pt;
+    color: #fff;
+}
+
+/* 
+ * ----------------------------------------------------------------------------
+ * Projects Main 
+ * ----------------------------------------------------------------------------
+ */
+
+.project-button {
+    padding: 10px;
+    font-size: 16pt;
+    text-decoration: none;
+    background-color: #ECEFF1;
+    margin: 10px;
+    width: 200px;
+    border: 1px solid #aaa;
+    box-shadow: 1px 1px 2px #bbb;
+    color: #263238;
+    text-decoration: none;
+    text-align: center;
+    float: left;
+}
+
+.project-button:hover {
+    background-color: #CFD8DC;
+}
+
+.thumb {
+    float: left;
+    margin-top: 10px;
+    margin-right: 10px;
 }
