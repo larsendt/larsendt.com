@@ -31,7 +31,7 @@ diameter with 1 1/2" of insulation would leave a nice space to work in.
 
 <div class="figure">
 <a name="figure1"></a>
-<img src="/img/forge/shrunk/drilled_forge.jpg">
+<img class="smallphoto" src="/img/forge/shrunk/drilled_forge.jpg">
 <br>
 Figure 1: Drilling the forge casing
 </div>
@@ -42,7 +42,7 @@ and air.
 
 <div class="figure">
 <a name="figure2"></a>
-<img src="/img/forge/shrunk/welds.jpg">
+<img class="smallphoto" src="/img/forge/shrunk/welds.jpg">
 <br>
 Figure 2: Legs and burner attachment welded
 </div>
@@ -53,7 +53,7 @@ be horizontal.
 
 <div class="figure">
 <a name="figure3"></a>
-<img src="/img/forge/shrunk/burner_attachment.jpg">
+<img class="smallphoto" src="/img/forge/shrunk/burner_attachment.jpg">
 <br>
 Figure 3: Attachment point for burner
 </div>
@@ -63,7 +63,7 @@ also my mediocre welding skills).
 
 <div class="figure">
 <a name="figure4"></a>
-<img src="/img/forge/shrunk/weak_burner.jpg">
+<img class="smallphoto" src="/img/forge/shrunk/weak_burner.jpg">
 <br>
 Figure 4: Testing the first iteration of the burner - the flame is pretty weak
 </div>
@@ -83,7 +83,7 @@ theory anyway). We initially figured that the welding tip might be too small.
 
 <div class="figure">
 <a name="figure5"></a>
-<img src="/img/forge/shrunk/weak_burner_in_forge.jpg">
+<img class="smallphoto" src="/img/forge/shrunk/weak_burner_in_forge.jpg">
 <br>
 Figure 5: First iteration of the burner attached to the forge casing
 </div>
@@ -93,7 +93,7 @@ terribad.
 
 <div class="figure">
 <a name="figure6"></a>
-<img src="/img/forge/shrunk/burner_fixed.jpg">
+<img class="smallphoto" src="/img/forge/shrunk/burner_fixed.jpg">
 <br>
 Figure 6: Semi-fixed burner. It had a bigger flame, but not very strong one.
 </div>
@@ -127,7 +127,7 @@ it nearly impossible to work with after it's dried.
 
 <div class="figure">
 <a name="figure7"></a>
-<img src="/img/forge/shrunk/failed_pour.jpg">
+<img class="smallphoto" src="/img/forge/shrunk/failed_pour.jpg">
 <br>
 Figure 7: First attempt at pouring the forge cement
 </div>
@@ -146,7 +146,7 @@ buckets.
 
 <div class="figure">
 <a name="figure8"></a>
-<img src="/img/forge/shrunk/poured_insulation1.jpg">
+<img class="smallphoto" src="/img/forge/shrunk/poured_insulation1.jpg">
 <br>
 Figure 8: Second attempt with different cement - much better!
 </div>
@@ -164,14 +164,14 @@ Needed - Link to good cement
 
 <div class="figure">
 <a name="figure9"></a>
-<img src="/img/forge/shrunk/insulation_with_burner.jpg">
+<img class="smallphoto" src="/img/forge/shrunk/insulation_with_burner.jpg">
 <br>
 Figure 9: All hooked up, ready to light!
 </div>
 
 <div class="figure">
 <a name="figure10"></a>
-<img src="/img/forge/shrunk/insulation_with_burner2.jpg">
+<img class="smallphoto" src="/img/forge/shrunk/insulation_with_burner2.jpg">
 <br>
 Figure 10: Second angle before lighting
 </div>
@@ -179,7 +179,7 @@ Figure 10: Second angle before lighting
 
 <div class="figure">
 <a name="figure11"></a>
-<img src="/img/forge/shrunk/flame_with_insulation.jpg">
+<img class="smallphoto" src="/img/forge/shrunk/flame_with_insulation.jpg">
 <br>
 Figure 11: We have fire!
 </div>
@@ -217,7 +217,7 @@ produced similar results by lightly blowing into the air inlet.
 
 <div class="figure">
 <a name="figure14"></a>
-<img src="/img/forge/shrunk/better_air_inlet.jpg">
+<img class="smallphoto" src="/img/forge/shrunk/better_air_inlet.jpg">
 <br>
 Figure 14: Improved air intake
 </div>
@@ -240,7 +240,7 @@ to a very nice bright orange.
 
 <div class="figure">
 <a name="figure16"></a>
-<img src="/img/forge/shrunk/hot_forge_with_steel.jpg">
+<img class="smallphoto" src="/img/forge/shrunk/hot_forge_with_steel.jpg">
 <br>
 Figure 16: Pretty HDR picture of the hot forge.
 </div>
@@ -253,7 +253,7 @@ beginnings of a project heating in the forge in Figure 16.
 
 <div class="figure">
 <a name="figure17"></a>
-<img src="/img/forge/shrunk/straight_gas_inlet.jpg">
+<img class="smallphoto" src="/img/forge/shrunk/straight_gas_inlet.jpg">
 <br>
 Figure 17: Straight gas inlet
 </div>
@@ -264,7 +264,7 @@ it also marginally improved gas flow.
 
 <div class="figure">
 <a name="figure18"></a>
-<img src="/img/forge/shrunk/forge_heat_ring.jpg">
+<img class="smallphoto" src="/img/forge/shrunk/forge_heat_ring.jpg">
 <br>
 Figure 18: Interesting heating pattern, featuring my Dad as a sun shield.
 </div>
@@ -275,7 +275,7 @@ results in the cool heated ring you can see in Figure 16.
 
 <div class="figure">
 <a name="figure19"></a>
-<img src="/img/forge/shrunk/coat_hooks.jpg">
+<img class="smallphoto" src="/img/forge/shrunk/coat_hooks.jpg">
 <br>
 Figure 19: Coat hooks! I needed a couple anyway, so I decided to dust off the
 rusty blacksmithing skills by doing something useful! Made out of 5/16" square
