@@ -10,12 +10,16 @@ how to solder and do basic electronics work, although it comes with the
 disclaimer that I'm only self taught and probably have significant gaps in my
 knowledge of everything below the assembly abstraction layer.  
 
-I've worked as a student software developer at the Laboratory for Atmospheric
-and Space Physics since May of 2010. I helped rebuild the entire GUI layer for
-their in-house spacecraft C&C application. I wrote about half of a 3D
-OpenGL-based science visualization tool that is actively used by scientists on
-the the MESSENGER mission to Mercury. I'm currently the sole developer on a
-situational awareness tool used in the day-to-day operations of nine
-spacecraft.
+I'm currently interested in machine learning (the subject area of my thesis),
+woodworking, blacksmithing and hobby electronics.
 
-You can contact me at: dane@larsendt.com
+I've worked as a student software developer at the <a
+href="http://lasp.colorado.edu">Laboratory for Atmospheric and Space
+Physics</a> since May of 2010. I helped rebuild the entire GUI layer for their
+in-house spacecraft command and control application. I wrote about half of a 3D
+OpenGL-based science visualization tool that is actively used by scientists on
+the the <a href="http://messenger.jhuapl.edu/">MESSENGER mission to
+Mercury</a>. I'm currently the sole developer on a situational awareness tool
+used in the day-to-day operations of nine spacecraft.
+
+You can contact me at <a href="mailto:dane@larsendt.com">dane@larsendt.com</a>

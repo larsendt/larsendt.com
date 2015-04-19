@@ -1,3 +1,9 @@
+<div class="breadcrumbs">
+<a href="projects.html" class="breadcrumb">Projects</a> > 
+<a href="blacksmithing_projects.html" class="breadcrumb">Blacksmithing Projects</a> > 
+<a href="forge.html" class="current-breadcrumb">Building a Forge</a>
+</div>
+
 # Building a Forge
 
 When I was a Freshman in high school in 2004, we were offered a beginner

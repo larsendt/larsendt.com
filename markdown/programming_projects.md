@@ -1,7 +1,7 @@
-# X-Hab
-
-See <a href="xhab.html">X-Hab</a>
-
+<div class="breadcrumbs">
+<a href="projects.html" class="breadcrumb">Projects</a> > 
+<a href="programming_projects.html" class="current-breadcrumb">Programming Projects</a>
+</div>
 
 # Dynamically Textured Sun
 
