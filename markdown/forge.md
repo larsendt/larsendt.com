@@ -1,3 +1,5 @@
+# Building a Forge
+
 When I was a Freshman in high school in 2004, we were offered a beginner
 class in blacksmithing and welding, taught by one of the parents who ran a
 little local blacksmithing shop. We learned basic manual forging as well as
