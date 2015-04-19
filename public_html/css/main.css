@@ -104,7 +104,8 @@ a {
     font-size: 16pt;
     text-decoration: none;
     background-color: #ECEFF1;
-    margin: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
     width: 200px;
     border: 1px solid #aaa;
     box-shadow: 1px 1px 2px #bbb;
@@ -148,6 +149,17 @@ a {
     max-height: 100%;
 }
 
+.breadcrumbs {
+
+}
+
+.breadcrumb {
+
+}
+
+.current-breadcrumb {
+    color: #666 !important;
+}
 
 /* 
  * ----------------------------------------------------------------------------
