@@ -19,8 +19,11 @@ a {
     line-height: 2.0;
     max-width: 800px;
     margin: auto;
-    text-align: justify;
     padding: 15px;
+}
+
+.content p {
+    text-align: justify;
 }
 
 .content a:link {
@@ -60,8 +63,8 @@ a {
 .nav-item {
     margin: 0px;
     padding: 10px;
-    padding-left: 25px;
-    padding-right: 25px;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
     color: #263238;
     border-right: 1px solid #ccc;
     float: left;
@@ -86,7 +89,8 @@ a {
 .logo-text {
     text-shadow: 1px 1px 4px #000;
     font-size: 18pt;
-    color: #fff;
+    color: rgba(255, 255, 255, 0.8);
+    font-weight: lighter;
 }
 
 /* 
@@ -121,11 +125,13 @@ a {
 }
 
 .figure {
-    margin: 50px;
+    margin: 2.5%;
+    margin-bottom: 50px;
     padding: 10px;
     font-style: italic;
     text-align: center;
     color: #333;
+    height: 400px;
 }
 
 .smallphoto {
@@ -138,7 +144,8 @@ a {
 }
 
 .figure img {
-    max-height: 400px;
+    max-width: 100%;
+    max-height: 100%;
 }
 
 
@@ -161,6 +168,7 @@ a {
 #photo-overlay img {
     margin: 10px;
     max-height: 90%;
+    max-width: 90%;
 }
 
 .overlay-text {
