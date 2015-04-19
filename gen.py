@@ -3,6 +3,7 @@
 import subprocess
 import os
 import config
+import re
 
 def get_timestamp(filename):
     cmd = ("git log -1 --format=\"%%ad\" -- %s" % filename).split(" ")
@@ -31,6 +32,11 @@ def template_process(title, in_fname, out_fname, timestamp):
     template = template.replace("{body}", document)
     template = template.replace("{timestamp}", timestamp)
 
+    unlinked_links = re.findall("[^\"](http[s]?://[^ \"<]+)", document)
+    for link in unlinked_links:
+        linktext = "<a href=\"%s\">%s</a>" % (link, link)
+        template = template.replace(link, linktext)
+
     with open(out_fname, "w") as f:
         f.write(template)
     
@@ -45,7 +51,7 @@ def make_htmls():
         pub_fpath = "./public_html/" + outfname
 
         timestamp = get_timestamp(fpath)
-        print timestamp
+        print "%s\t%s" % (fpath.ljust(40), timestamp)
 
         markdown_to_html(fpath, outfpath)
         template_process(title, outfpath, pub_fpath, timestamp)
