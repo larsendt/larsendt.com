@@ -5,7 +5,7 @@
 
 # Dynamically Textured Sun
 
-<a href="https://github.com/larsendt/dynamic-tex">Github</a>
+https://github.com/larsendt/dynamic-tex
 
 <img src="img/mini_dynamic_tex.png" class="thumb">This was a project I built
 for an Advanced Graphics class. It uses the shaders from the warping project
@@ -17,12 +17,12 @@ texture is wrapped around the sphere, the resulting image is copied to a
 framebuffer and a god-ray (or Crepuscular ray) shader is applied to give
 the sphere the glowing effect.
 
-<a href="http://youtu.be/4KthEQq7fdA">See a demo on Youtube</a>
+On Youtube: http://youtu.be/4KthEQq7fdA
 
 
 # Procedural Warping Texture in GLSL
 
-<a href="https://github.com/larsendt/glsl-warping">Github</a>
+https://github.com/larsendt/glsl-warping
 
 <img src="img/warping.png" class="thumb">I wrote this project for fun over the
 2011/2012 winter break. The inspiration came from <a
@@ -36,7 +36,7 @@ shader, including the Perlin noise.
 <a href="warping/warping.html">Here's a live demo in WebGL.</a> (Note: requires
 a moderately powerful graphics card and a browser than can do WebGL.)
 
-<a href="http://youtu.be/oUq5B4XukBo">See a demo on Youtube</a>
+On Youtube: http://youtu.be/oUq5B4XukBo
 
 (As a sidenote, <a href="http://www.iquilezles.org/">Inigo's site</a> is the
 craziest and most amazing collection of realtime graphics work I've ever seen.
@@ -47,7 +47,7 @@ ever</a>).
 
 # OpenCL N-Body Simulator
 
-<a href="https://github.com/larsendt/opencl-nbody">Github</a>
+https://github.com/larsendt/opencl-nbody
 
 <img src="img/nbody.png" class="thumb">This is probably the prettiest thing
 I've ever built (maybe only contested by the dynamically textured sun or the
@@ -59,14 +59,14 @@ passes position and velocity and mass of each particle to the OpenCL kernel
 which calculates the next state. My laptop's 560M can do 1024 particles at ~40
 FPS.
 
-<a href="http://youtu.be/lMWt3LCbsYQ">See a demo on Youtube</a>
+On Youtube: http://youtu.be/lMWt3LCbsYQ
 
 The framerate is terrible in this video, but I swear it runs great normally.
 
 
 # Hashtable
 
-<a href="https://github.com/larsendt/hashtable">Github</a>
+https://github.com/larsendt/hashtable
 
 <img src="img/hashtable.png" class="thumb">I started this project in June 2012
 to refresh my C skills. It's a very simple hashtable implementation in pure C.
