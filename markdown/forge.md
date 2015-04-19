@@ -236,7 +236,7 @@ the Y joint and figured it was worth a shot.
 
 <div class="figure">
 <a name="figure15"></a>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FMNcWIKG6Zc" 
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/FMNcWIKG6Zc" 
 frameborder="0" allowfullscreen></iframe>
 <br>
 Figure 15: Results of improved air intake
