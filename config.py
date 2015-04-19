@@ -6,6 +6,7 @@ CONFIG = {
         {"file":"electronics_projects.md", "title":"Electronics Projects", "out":"electronics_projects.html"},
         {"file":"blacksmithing_projects.md", "title":"Blacksmithing Projects", "out":"blacksmithing_projects.html"},
         {"file":"forge.md", "title":"Building a Forge", "out":"forge.html"},
+        {"file":"curtains.md", "title":"Automated Curtains", "out":"curtains.html"},
     ]
 }
 
