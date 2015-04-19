@@ -4,6 +4,12 @@ import subprocess
 import os
 import config
 
+def get_timestamp(filename):
+    cmd = ("git log -1 --format=\"%%ad\" -- %s" % filename).split(" ")
+    p = subprocess.Popen(cmd, stdout=subprocess.PIPE)
+    t = p.stdout.read()
+    return t[1:-2]
+
 def make_folders():
     for folder in ["public_html", "cache"]:
         if not os.path.exists(folder):
@@ -14,7 +20,7 @@ def markdown_to_html(in_fname, out_fname):
     cmd = ["pandoc", in_fname, "-o", out_fname]
     subprocess.call(cmd)
 
-def template_process(title, in_fname, out_fname):
+def template_process(title, in_fname, out_fname, timestamp):
     with open("template.html", "r") as f:
         template = f.read()
 
@@ -23,6 +29,7 @@ def template_process(title, in_fname, out_fname):
 
     template = template.replace("{title}", title)
     template = template.replace("{body}", document)
+    template = template.replace("{timestamp}", timestamp)
 
     with open(out_fname, "w") as f:
         f.write(template)
@@ -37,8 +44,11 @@ def make_htmls():
         outfpath = "./cache/" + outfname
         pub_fpath = "./public_html/" + outfname
 
+        timestamp = get_timestamp(fpath)
+        print timestamp
+
         markdown_to_html(fpath, outfpath)
-        template_process(title, outfpath, pub_fpath)
+        template_process(title, outfpath, pub_fpath, timestamp)
 
 
 
