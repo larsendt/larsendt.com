@@ -48,3 +48,8 @@ Metalworking
 Prediction Markets
 ==================
 - http://www.gwern.net/Prediction%20markets
+
+SDR
+===
+- http://www.rs-online.com/designspark/electronics/eng/blog/software-defined-radio-on-a-shoestring?/designspark/electronics/blog/software-defined-radio-on-a-shoestring=
+- http://www.rs-online.com/designspark/electronics/eng/blog/taking-the-raspberry-pi-2-for-a-test-drive-with-gnu-radio-2
