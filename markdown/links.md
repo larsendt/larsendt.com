@@ -36,6 +36,7 @@ Development
 - http://www.greghendershott.com/fear-of-macros/
 - http://on-demand.gputechconf.com/gtc/2015/video/S5398.html
 - http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/
+- Engineering Mathematics - Stroud
 
 Woodworking
 ===========
