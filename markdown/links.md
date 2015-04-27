@@ -37,6 +37,7 @@ Development
 - http://on-demand.gputechconf.com/gtc/2015/video/S5398.html
 - http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/
 - Engineering Mathematics - Stroud
+- http://cglab.ca/~abeinges/blah/everyone-poops/
 
 Woodworking
 ===========
