@@ -7,6 +7,7 @@ Fiction
 - Permutation City
 - Diaspora
     - http://gregegan.customer.netspace.net.au/DIASPORA/DIASPORA.html#CONTENTS
+- The forever war
 
 Non-Fiction
 ===========
@@ -38,6 +39,7 @@ Development
 - http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/
 - Engineering Mathematics - Stroud
 - http://cglab.ca/~abeinges/blah/everyone-poops/
+- http://www.bsdnow.tv/tutorials/openbsd-router
 
 Woodworking
 ===========
